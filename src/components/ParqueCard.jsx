@@ -13,5 +13,6 @@ return (
     </div>
 </>
 );
+<ParqueCard></ParqueCard>
 };
 export default ParqueCard;
